@@ -1,2 +1,2 @@
-# evolução em JavaScript
+# evolucao em JavaScript
 Postando meus exercícios e projetos em JavaScript 
